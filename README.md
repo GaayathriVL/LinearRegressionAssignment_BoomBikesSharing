@@ -19,26 +19,28 @@ Dataset used is day.csv. It contains the complete data for all bike sharing.
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+-  Season: \
+Demand seems to be more in summer and fall. \
+Demand seems to be less in spring season. 
+-  Year: \
+Demand was less in 2018 and increased in 2019. 
+-  Month: \
+Demand is high from June to October ie Summer. 
+-  Weathersit: \
+Demand is more when there is clear weather and when it is cloudy.
 
 
 ## Technologies Used
 
-numpy 1.23.5
-pandas 1.5.3
-matplotlib.pyplot 3.7.0
-seaborn 0.12.2
+numpy 1.23.5 \
+pandas 1.5.3 \
+matplotlib.pyplot 3.7.0 \
+seaborn 0.12.2 \
 sklearn
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 
-References stackoverflow.com
+References stackoverflow.com \
 This project was based on Boombikes
 
 
